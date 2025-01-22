@@ -1,1 +1,6 @@
 Maintain all the notes teaches in namaste react.
+build a sample hello world application using a html
+how can you do same thing using a javascript along with react
+what is cdn - homework
+crossorigin - homework
+can react be used only to build business logic with out rendering or showing data in browser.

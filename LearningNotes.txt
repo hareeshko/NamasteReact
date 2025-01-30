@@ -1,0 +1,3 @@
+30-1-29
+signadot is company helps to manage kubernetes testing.
+how mocking helps in the testing there are pros and cons in mock testing.

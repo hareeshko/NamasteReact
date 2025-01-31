@@ -1,7 +1,19 @@
 30-1-29
 signadot is company helps to manage kubernetes testing.
+50 mins learning of javascript
 how mocking helps in the testing there are pros and cons in mock testing.
 https://www.weforum.org/stories/2025/01/workforce-change-future-ready-businesses/ reading this article
 multi generational workfroce - how companies make that collaboration
 https://www.grandviewresearch.com/industry-analysis/adventure-tourism-market-report
 zip lining is one of the adventure games
+https://medium.com/@lynnfdsouza/top-10-use-cases-of-llms-in-aviation-7f7ba11e2437
+
+31-1-24
+ollama is kind of docker for llms, 
+we have different models available in ollama
+learned 15 mins of ollama course in udemy
+how to setup ssh with git - need to study
+
+
+doubts.
+quantization of models in llm

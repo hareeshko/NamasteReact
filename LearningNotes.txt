@@ -13,7 +13,65 @@ ollama is kind of docker for llms,
 we have different models available in ollama
 learned 15 mins of ollama course in udemy
 how to setup ssh with git - need to study
+npm is not node package manager, its just package manager, if you go to npm website you will see all other except node package manager.
+learned 20 mins of namasthe react
+Gaussian function in ocr
+https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html used in edge detection.
+https://www.researchgate.net/publication/343058537_OCR_Using_Computer_Vision_and_Machine_Learning
+
+
+1-2-24
+----
+package.json is configuration of npm
+
+different types of dependencies/packages
+dev dependency
+normal dependency
+tokenization is one of key approach in llms
+transformer nerual network architecture
+Reinforcement learning from human feedback (RLHF)
+jail breaking prompts
+
+
+bundlers
+webpack
+parcel - easy to configure
+veet
+
+
+2-2-2025
+---------------
+langchain gives benefits for model inputting, prompting, output
+temperature parameter in model = lower gives more accurate 0.1 higher gives more creative and unpredictable 0.9
+chat prompt tempalte for build chat application using llm
+pydantic library
+differnet between tilde and caret in package.json
+how narrative ai chagnes the data market place
+
+
+read abou the pythong jupyter.
+
+
+5-2-25
+-------------
+package.json and package-lock.json
+transit dependency
+
+if is use other package manager, still i need package.json or other ones
+
+
+18-2-25
+---------------
+there is concept called category theory in mathematics.
+it study about composibilty
+how big things work when it is composed of multiple small things.
+it also connects with functional programming like haskell
 
 
 doubts.
 quantization of models in llm
+consisten hashing
+what is the difference between npm start and npm build, why npm build wont work
+read about babel and parcel.
+
+

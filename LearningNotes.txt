@@ -68,6 +68,16 @@ how big things work when it is composed of multiple small things.
 it also connects with functional programming like haskell
 
 
+19-2-2025
+----------------
+config driven ui in swiggy
+
+
+20-2-2025
+----------------
+event handler in javascript
+
+
 doubts.
 quantization of models in llm
 consisten hashing

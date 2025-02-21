@@ -77,6 +77,13 @@ config driven ui in swiggy
 ----------------
 event handler in javascript
 
+21-2-25
+---------------
+state hook - utility in react
+react fiber - reconcillation algorithm
+Virtual DOM
+
+
 
 doubts.
 quantization of models in llm

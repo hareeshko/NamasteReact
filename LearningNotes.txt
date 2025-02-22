@@ -83,6 +83,16 @@ state hook - utility in react
 react fiber - reconcillation algorithm
 Virtual DOM
 
+22-2-25
+--------------------
+virtual DOM existed before the react. react took that concept and applied it.
+virtual DOM - javascript representation of DOM
+frames per second(FPS, one of the measurement for smooth UI update)
+sometimes limiting FPS gives more battery performance.
+browser gives requestanimationframe(RAF) API to interact with browser from javascript and update it.
+16ms for 60 FPS = 1000/60 = 16
+
+
 
 
 doubts.
@@ -90,5 +100,6 @@ quantization of models in llm
 consisten hashing
 what is the difference between npm start and npm build, why npm build wont work
 read about babel and parcel.
-
+time slicing in react fiber, why it need to wait for the next frame, what happens if some part is already updated. if i ask update in the middle.
+how virtual scrolling works in web development
 

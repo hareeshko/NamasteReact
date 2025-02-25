@@ -98,6 +98,16 @@ browser gives requestanimationframe(RAF) API to interact with browser from javas
 corsproxy.io to handle cors policy
 there is limit for corsproxy
 
+
+25-2-25
+---------------
+userouteerror hook in react router dom for handling errors
+childern route in react router dom
+outlet is available in react router dom outlet will be filled with childern
+
+
+
+
 doubts.
 quantization of models in llm
 consisten hashing
